@@ -1,5 +1,6 @@
 # send-email-smtp
-This is python script written to send customized emails
+
+This is the python program written to send email from gmail account to any no of users using smtp protocol
 
 before using this files :
 
