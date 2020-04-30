@@ -12,6 +12,7 @@ Step 3 : For the developers who want to send mass emails or email to specific us
 https://myaccount.google.com/apppasswords
 
   3.1 : After visitng , select the right option which suits your demand(Select the app and device you want to generate the app password for)
+  
   3.2 : I have selected  "app" :"mail" and "device": "windows computer" because my requirement was to send email from python code running on my windows os. Likewise select that
   
   3.3 You will be prompted with password , just make a note of this somewhere.
